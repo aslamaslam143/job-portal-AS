@@ -26,7 +26,7 @@ const Navbar = () => {
           </div>
         ) : (
           <div className='text-2xl font-bold ml-4'>
-            <h1>SN Jobify</h1>
+            <h1>⚡Ajju⚡ Jobify</h1>
           </div>
         )}
       </div>
